@@ -21,13 +21,21 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://amr-elmohamady.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-amr&#8211;elmohamady.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
-<br/>
-<a href="https://dev.to/amrelmohamady"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
-<br/>
-<a href="https://www.facebook.com/amr.elmohamady.1426/"><img src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/></a>
-<br/>
-<a href="https://twitter.com/AmrElmohamady2"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-<br/>
-<a href="mailto:ana.osama.elmohamady@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ana.osama.elmohamady@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<ul>
+  <li>
+    <a href="https://amr-elmohamady.netlify.app/" target="_blank" >Personal Website</a>
+  </li>
+  <li>
+    <a href="mailto:ana.osama.elmohamady@gmail.com">Email</a>
+  </li>
+  <li>
+    <a href="https://dev.to/amrelmohamady" target="_blank" >Blog</a>
+  </li>
+  <li>
+    <a href="https://www.facebook.com/amr.elmohamady.1426/" target="_blank" >Facebook</a>
+  </li>
+  <li>
+    <a href="https://twitter.com/AmrElmohamady2" target="_blank" >Twitter</a> 
+  </li>  
+</ul>
 </p>
