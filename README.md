@@ -14,7 +14,7 @@
 - 💻 &nbsp; Vue | Vuex | Nuxt | jQuery | Node.js | Express
 - 🛢 &nbsp; Firebase | MongoDB
 - 🔧 &nbsp; Git | Markdown | CLI | Gulp | NPM
-- 🖥 &nbsp; Bootstrap | Vuetify 
+- 🖥 &nbsp; Bootstrap | Vuetify | TailwindCSS
 
 <br/>
 
