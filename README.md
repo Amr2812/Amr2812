@@ -35,7 +35,7 @@
     <a href="https://www.facebook.com/amr.elmohamady.1426/" target="_blank" >Facebook</a>
   </li>
   <li>
-    <a href="https://twitter.com/AmrElmohamady2" target="_blank" >Twitter</a> 
+    <a href="https://twitter.com/Amr__Elmohamady" target="_blank" >Twitter</a> 
   </li>  
 </ul>
 </p>
