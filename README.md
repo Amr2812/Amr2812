@@ -11,9 +11,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Pug | EJS | SASS
-- 💻 &nbsp; Vue | Vuex | Nuxt | jQuery | Node.js | Express
+- 💻 &nbsp; Vue | Vuex | Nuxt | Ionic | jQuery | Node.js | Express
 - 🛢 &nbsp; Firebase | MongoDB
-- 🔧 &nbsp; Git | Markdown | CLI | Gulp | NPM
+- 🔧 &nbsp; Git | WordPress with basic PHP | Markdown | CLI | Gulp | NPM
 - 🖥 &nbsp; Bootstrap | Vuetify | TailwindCSS
 
 <br/>
