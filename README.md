@@ -5,8 +5,8 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; High School Student and a Future Computer Science Student.
 - ✍️ &nbsp; Writting Blog Posts at Dev.to.
-- 💼 &nbsp; Working Freelancer as a Full-Stack Developer for Fun.
-- 🌱 &nbsp; Learning more about Backend Development.
+- 🤔 &nbsp; Solving Problems at HackerRank.
+- 🌱 &nbsp; Joining Hackathons.
 
 <h3>🛠 Tech Stack</h3>
 
