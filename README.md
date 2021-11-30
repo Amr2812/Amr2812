@@ -10,9 +10,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Pug | EJS | SASS
-- 💻 &nbsp; Vue | Vuex | Nuxt | Ionic | jQuery | Node.js | Express
-- 🛢 &nbsp; Firebase | MongoDB
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Pug | EJS | SASS | Vue | Vuex | Nuxt | Ionic | jQuery
+- 💻 &nbsp; Node.js | Express | Socket.IO | Docker | Pm2 | Nginx
+- 🛢 &nbsp; SQL/Mysql/Sequelize | Firebase | MongoDB/Mongoose | Redis
 - 🔧 &nbsp; Git | WordPress with basic PHP | Markdown | CLI | Gulp | NPM
 - 🖥 &nbsp; Bootstrap | Vuetify | TailwindCSS
 
