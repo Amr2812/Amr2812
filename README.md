@@ -39,3 +39,6 @@
   </li>  
 </ul>
 </p>
+
+<h3> 📈 Some stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=Amr2812&show_icons=true&theme=dark&count_private=true" alt="Amr's GitHub stats" />
