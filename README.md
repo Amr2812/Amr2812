@@ -23,7 +23,7 @@
 <p align="center">
 <ul>
   <li>
-    <a href="https://www.linkedin.com/in/amr-elmohamady-06342a1ba" target="_blank" >LinkedIN</a>
+    <a href="https://www.linkedin.com/in/amr-elmohamady" target="_blank" >LinkedIN</a>
   </li>
   <li>
     <a href="mailto:ana.osama.elmohamady@gmail.com">Email</a>
