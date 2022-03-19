@@ -1,24 +1,34 @@
-<h2> Hey there! I'm Amr.</h2>
+## Hey there! I'm Amr.
 
-<h3> 👨🏻‍💻 About Me </h3>
+### 👨🏻‍💻 About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; High School Student and a Future Computer Science Student.
 - ✍️ &nbsp; Writting Blog Posts at Dev.to.
-- 🤔 &nbsp; Solving Problems at HackerRank.
-- 🌱 &nbsp; Joining Hackathons.
 
-<h3>🛠 Tech Stack</h3>
+### 🛠 Tech Stack
 
-- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Pug | EJS | SASS | Vue | Vuex | Nuxt | Ionic | jQuery
-- 💻 &nbsp; Node.js | Express | Socket.IO | Docker | Pm2 | Nginx
+- 💻 &nbsp; Node.Js | Express | Socket.IO | Message Queues/Brokers (RabbitMQ / ZeroMQ) | Docker | Pm2 | Nginx | HAProxy
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript/ES6+ | Typescript | Pug | EJS | SASS | Vue | Vuex | Nuxt | Ionic | jQuery
 - 🛢 &nbsp; SQL/Mysql/Sequelize | Firebase | MongoDB/Mongoose | Redis
-- 🔧 &nbsp; Git | WordPress with basic PHP | Markdown | CLI | Gulp | NPM
+- 🔧 &nbsp; OOP | Integration Patterns | Design Patterns | Documentation (JsDoc/Swagger/Postman)
 - 🖥 &nbsp; Bootstrap | Vuetify | TailwindCSS
 
-<br/>
+---
 
-<h3> 🤝🏻 Connect with Me </h3>
+### Important Courses/Books
+
+- **M001: MongoDB Intro Course (MongoDB University)**
+- **M201: MongoDB Performance Course (MongoDB University)**
+- **Node.js Design Patterns (Book)**
+  - A Node.js book about design patterns, writing modules, asynchronous programming, Scalability, Architectural Patterns     Advanced Node.js topics
+- **System Design Interview (Book)**
+  - A book about system design in which the writer show simplified
+  process of designing multiple systems
+
+---
+
+### 🤝🏻 Connect with Me
 
 <p align="center">
 <ul>
@@ -40,5 +50,5 @@
 </ul>
 </p>
 
-<h3> 📈 Some stats</h3>
+### 📈 Some stats
 <img src="https://github-readme-stats.vercel.app/api?username=Amr2812&show_icons=true&theme=dark&count_private=true" alt="Amr's GitHub stats" />
