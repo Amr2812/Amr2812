@@ -14,9 +14,7 @@
 - 🔧 &nbsp; OOP | Integration Patterns | Design Patterns | Documentation (JsDoc/Swagger/Postman)
 - 🖥 &nbsp; Bootstrap | Vuetify | TailwindCSS
 
----
-
-### Important Courses/Books
+### 📖 Important Courses/Books
 
 - **M001: MongoDB Intro Course (MongoDB University)**
 - **M201: MongoDB Performance Course (MongoDB University)**
@@ -25,8 +23,6 @@
 - **System Design Interview (Book)**
   - A book about system design in which the writer show simplified
   process of designing multiple systems
-
----
 
 ### 🤝🏻 Connect with Me
 
