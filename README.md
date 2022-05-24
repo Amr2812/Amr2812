@@ -8,9 +8,9 @@
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; Node.Js | Express | Socket.IO | Message Queues/Brokers (RabbitMQ / ZeroMQ) | Docker | Pm2 | Nginx | HAProxy
+- 💻 &nbsp; Node.Js | Express | NestJS | Socket.IO | Message Queues/Brokers (RabbitMQ / ZeroMQ) | Docker | Pm2 | Nginx | HAProxy
 - 🌐 &nbsp; HTML5 | CSS3 | JavaScript/ES6+ | Typescript | Pug | EJS | SASS | Vue | Vuex | Nuxt | Ionic | jQuery
-- 🛢 &nbsp; SQL/Mysql/Sequelize | Firebase | MongoDB/Mongoose | Redis
+- 🛢 &nbsp; SQL | Mysql | Postgresql | Sequelize | Typeorm | MongoDB/Mongoose | Redis | Firebase
 - 🔧 &nbsp; OOP | Integration Patterns | Design Patterns | Documentation (JsDoc/Swagger/Postman)
 - 🖥 &nbsp; Bootstrap | Vuetify | TailwindCSS
 
