@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; High School Student and a Future Computer Science Student.
-- ✍️ &nbsp; Writting Blog Posts at Dev.to.
+- ✍️ &nbsp; Writting Tech Blog Posts.
 
 ### 🛠 Tech Stack
 
@@ -29,20 +29,20 @@
 <p align="center">
 <ul>
   <li>
-    <a href="https://www.linkedin.com/in/amr-elmohamady" target="_blank" >LinkedIN</a>
+    <a href="https://www.linkedin.com/in/amr-elmohamady" target="_blank" >LinkedIn</a>
   </li>
   <li>
-    <a href="mailto:ana.osama.elmohamady@gmail.com">Email</a>
+    <a href="mailto:amr.osama.elmohamady@gmail.com">Email</a>
   </li>
   <li>
-    <a href="https://dev.to/amrelmohamady" target="_blank" >Blog</a>
+    <a href="https://amrelmohamady.hashnode.dev/" target="_blank" >Blog</a>
   </li>
   <li>
     <a href="https://www.facebook.com/amr.elmohamady.1426/" target="_blank" >Facebook</a>
   </li>
   <li>
     <a href="https://twitter.com/Amr__Elmohamady" target="_blank" >Twitter</a> 
-  </li>  
+  </li>
 </ul>
 </p>
 
