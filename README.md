@@ -35,7 +35,10 @@
     <a href="mailto:amr.osama.elmohamady@gmail.com">Email</a>
   </li>
   <li>
-    <a href="https://amrelmohamady.hashnode.dev/" target="_blank" >Blog</a>
+    <a href="https://amrelmohamady.hashnode.dev/" target="_blank" >Blog & Personal site (hashnode)</a>
+  </li>
+  <li>
+    <a href="https://dev.to/amrelmohamady" target="_blank" >Blog (dev.to)</a>
   </li>
   <li>
     <a href="https://www.facebook.com/amr.elmohamady.1426/" target="_blank" >Facebook</a>
