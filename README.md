@@ -52,5 +52,5 @@
 ### 📈 Some stats
 <img src="https://github-readme-stats.vercel.app/api?username=Amr2812&show_icons=true&theme=radical&count_private=true" alt="Amr's GitHub stats" />
 <a href="https://dev.to/amrelmohamady" target="_blank">
-  <img src="https://amrelmohamady-devto-stats.cyclic.app/" alt="Amr's Dev.to Vlog stats" />
+  <img src="https://amrelmohamady-devto-stats.cyclic.app/" alt="Amr's Dev.to Blog stats" />
 </a>
