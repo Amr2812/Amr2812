@@ -19,7 +19,7 @@
 - **M001: MongoDB Intro Course (MongoDB University)**
 - **M201: MongoDB Performance Course (MongoDB University)**
 - **Node.js Design Patterns (Book)**
-  - A Node.js book about design patterns, writing modules, asynchronous programming, Scalability, Architectural Patterns     Advanced Node.js topics
+  - A Node.js book about design patterns, writing modules, asynchronous programming, Scalability, Architectural Patterns &     Advanced Node.js topics
 - **System Design Interview (Book)**
   - A book about system design in which the writer show simplified
   process of designing multiple systems
