@@ -1,11 +1,5 @@
 ## Hey there! I'm Amr.
 
-### 👨🏻‍💻 About Me
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; High School Student and a Future Computer Science Student.
-- ✍️ &nbsp; Writting Tech Blog Posts.
-
 ### 🛠 Tech Stack
 
 - 💻 &nbsp; Node.Js | Express | NestJS | Socket.IO | Message Queues/Brokers (RabbitMQ / ZeroMQ) | Docker | Pm2 | Nginx | HAProxy
