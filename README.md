@@ -23,6 +23,9 @@
 <p align="center">
 <ul>
   <li>
+    <a href="https://twitter.com/Amr__Elmohamady" target="_blank" >Twitter</a> 
+  </li>
+  <li>
     <a href="https://www.linkedin.com/in/amr-elmohamady" target="_blank" >LinkedIn</a>
   </li>
   <li>
@@ -37,14 +40,11 @@
   <li>
     <a href="https://www.facebook.com/amr.elmohamady.1426/" target="_blank" >Facebook</a>
   </li>
-  <li>
-    <a href="https://twitter.com/Amr__Elmohamady" target="_blank" >Twitter</a> 
-  </li>
 </ul>
 </p>
 
 ### 📈 Some stats
-<img src="https://metrics.lecoq.io/Amr2812" alt="Amr's GitHub metrics" />
+<img src="https://metrics.lecoq.io/Amr2812" alt="Amr's GitHub metrics (reload)" />
 <a href="https://dev.to/amrelmohamady" target="_blank">
-  <img src="https://amrelmohamady-devto-stats.cyclic.app/" alt="Amr's Dev.to Blog stats" />
+  <img src="https://amrelmohamady-devto-stats.cyclic.app/" alt="Amr's Dev.to Blog stats (reload)" />
 </a>
