@@ -43,7 +43,6 @@
 </p>
 
 ### 📈 Some stats
-<img src="https://metrics.lecoq.io/Amr2812" alt="Amr's GitHub metrics (reload)" />
 <a href="https://dev.to/amrelmohamady" target="_blank">
   <img src="https://amrelmohamady-devto-stats.cyclic.app/" alt="Amr's Dev.to Blog stats (reload)" />
 </a>
