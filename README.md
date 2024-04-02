@@ -16,6 +16,8 @@
   - A book about system design in which writers show a process of designing many systems at large scale.
 - **Database Internals: A Deep Dive into How Distributed Data Systems Work**
   - The first half of the book explores storage classification, and dive into B-Tree-based and immutable Log Structured storage engines. It explains how database files are organized to build efficient storage, using auxiliary data structures such as Page Cache, Buffer Pool and Write-Ahead Log. The book covers implementations of different techniques and optimizations used in real database systems like PostgreSQL, MySQL & Apache Cassandra. I only read the first half since the second half explores distributed databases which I will study after studying distributed systems.
+- **Fundamentals of Database Systems**
+  - I used this database textbook to study Database design & normalization while studying the Datbase Modeling & Theory course from Stanford University.
 
 ### 🤝🏻 Connect with Me
 
