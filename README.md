@@ -2,11 +2,7 @@
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; Node.Js | Express | NestJS | Socket.IO | Message Queues (RabbitMQ) | Docker Basics | Pm2 | Nginx
-- 🛢 &nbsp; SQL | Database Design | Database Performance Optimization | NoSQL | PostgreSQL | MySQL | Sequelize | Typeorm | MongoDB/Mongoose | Redis | Firebase
-- 🔧 &nbsp; Unit Testing | OOP | Integration Patterns | Design Patterns | Documentation (JsDoc/Swagger/Postman)
-- 🌐 &nbsp; HTML5 | CSS3 | JavaScript/ES6+ | Typescript | EJS | SASS | Vue | Vuex | Pinia | Nuxt | Ionic
-- 🖥 &nbsp; Bootstrap | Vuetify | TailwindCSS
+There's no point in listing dozens of technologies I used before, since I ususally just learn new techs when I need them or when I want to experiment. I do web dev especially backend. I am into low-level systems programming and database development nowadays.
 
 ### 📖 Books I enjoyed
 
@@ -15,7 +11,7 @@
 - **System Design Interview**
   - A book about system design in which writers show a process of designing many systems at large scale.
 - **Database Internals: A Deep Dive into How Distributed Data Systems Work**
-  - The first half of the book explores storage classification, and dive into B-Tree-based and immutable Log Structured storage engines. It explains how database files are organized to build efficient storage, using auxiliary data structures such as Page Cache, Buffer Pool and Write-Ahead Log. The book covers implementations of different techniques and optimizations used in real database systems like PostgreSQL, MySQL & Apache Cassandra. I only read the first half since the second half explores distributed databases which I will study after studying distributed systems.
+  - The first half of the book explores storage classification, and dive into B-Tree-based and immutable Log Structured storage engines. It explains how database files are organized to build efficient storage, using auxiliary data structures such as Page Cache, Buffer Pool and Write-Ahead Log. The book covers implementations of different techniques and optimizations used in real database systems like PostgreSQL, MySQL & Apache Cassandra. I only read the first half since the second half explores distributed databases which I will read after studying distributed systems.
 - **Fundamentals of Database Systems**
   - I used this database textbook to study Database design & normalization while studying the Datbase Modeling & Theory course from Stanford University.
 
@@ -46,5 +42,5 @@
 
 ### 📈 Some stats
 <a href="https://dev.to/amrelmohamady" target="_blank">
-  <img src="https://amrelmohamady-devto-stats.cyclic.app/" alt="Amr's Dev.to Blog stats (reload)" />
+  <img src="https://amrelmohamady-devto-stats.cyclic.app/" alt="Amr's Dev.to Blog stats (if not working, then dev.to changed the layout)" />
 </a>
